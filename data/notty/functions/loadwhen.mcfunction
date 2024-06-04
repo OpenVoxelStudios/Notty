@@ -1,0 +1,1 @@
+$execute store result score tempwhen notty run data get storage notty sheet.notes[$(index)].when 1

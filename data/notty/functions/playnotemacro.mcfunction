@@ -1,0 +1,1 @@
+$execute as @a[tag=notty] at @s run playsound minecraft:block.note_block.$(instrument) record @s ~ ~ ~ 1 $(note)
